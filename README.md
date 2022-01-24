@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/jamalkaksouri/expenseTracker/blob/master/public/images/img1.png">
+</p>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
